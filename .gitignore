@@ -1,4 +1,7 @@
 # Stuff
+Config/DefaultEditor.ini
+Config/DefaultEditorUserSettings.ini
+Config/DefaultEditorPerProjectUserSettings.ini
 Saved/*
 Intermediate/*
 Content/Collections/*

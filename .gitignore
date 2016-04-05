@@ -3,6 +3,7 @@ Config/DefaultEditor.ini
 Config/DefaultEditorUserSettings.ini
 Config/DefaultEditorPerProjectUserSettings.ini
 Saved/*
+Build/*
 Intermediate/*
 Content/Collections/*
 Content/Developers/*
